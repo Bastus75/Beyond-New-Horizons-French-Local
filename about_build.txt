@@ -1,0 +1,224 @@
+About_Build
+{
+Beyond New Horizons
+
+S'agissant d'un jeu basé à l'origine sur le jeu original "Pirates des Caraïbes" de 2003, il y a beaucoup de choses à savoir sur le jeu et beaucoup de choses qui peuvent ne pas être immédiatement apparentes.
+
+C'est pourquoi nous avons compilé ces trucs et astuces pour tous les joueurs. Il y a probablement certaines choses mentionnées que vous ne connaissiez pas déjà et qui peuvent vous aider à améliorer votre expérience de jeu.
+
+Amusez-vous avec le jeu !
+
+}
+
+B_1{Introduction}
+About_Build_1_d{INTRODUCTION}
+About_Build_1
+{
+
+Créer à l'origine par Akella en 2003 "Pirates des Caraïbes", cette modification a été en développée depuis la sortie du Build 13 au début de 2007. Nous avons parcouru un long chemin depuis lors, en ajoutant beaucoup de nouveaux contenus et de nouvelles fonctionnalités, dont certaines ont été pensé être impossible à atteindre, même par les développeurs de jeux originaux eux-mêmes.
+
+L'intention est de fournir une expérience aussi complète pour un jeu de pirate autant que possible, à la fois plus réaliste, mais aussi plus amusant. Les nouvelles fonctionnalités comprennent plus de scénarios, des détails historiques, des capacités de jeu libre, de la variété et plus de personnalisation que jamais. Sans oublier que les graphismes ont également été améliorés, surtout avec de nouveaux modèles et de textures, mais aussi la mer elle-même et nulle part ailleurs que nous pourrions gérer.
+}
+
+B_2{Resolution}
+About_Build_2_d{RÉSOLUTION et AUTRES PARAMÈTRES AVANCÉS}
+About_Build_2
+{
+
+Modifiez manuellement le fichier engine.ini dans votre dossier principal de jeu avec le Bloc-notes. Définissez screen_x et screen_y sur la résolution de votre bureau.
+
+Il est recommandé de définir le plein écran sur 0. Cela permet au jeu de fonctionner en mode fenêtré et vous permet d'utiliser Alt+Tab pour entrer et sortir.
+
+Si vous n'aimez pas les "Conseils" lors du chargement du jeu, définissez numoftips sur 0.
+}
+
+B_3{Rive}
+About_Build_3_d{RIVAGE et COMBATS TERRESTRE}
+About_Build_3
+{
+
+- Si vous êtes perdu dans une ville, certains citoyens peuvent vous indiquer le chemin.
+
+- Pratiquer vos compétences en mêlée est la clé pour survivre. Au début, essayez de porter quelques coups et si votre santé se dégrade, fuyez ! La compétence augmente à chaque coup.
+
+- les objets qui fournissent des bonus de compétences le feront également si vous les mettez dans le coffre du navire. Vous n’êtes donc pas obligé de les transporter tout le temps.
+
+- L'esquive est très utile lorsque vous combattez plusieurs ennemis.
+
+- Les rouleaux de bandages et autres médicaments peuvent être achetés auprès des commerçants dans la rue et en magasin. Ils vous sauveront la vie !
+
+- N'oubliez pas que vous pouvez emmener des membres d'équipage avec vous pour l'exploration terrestre. C'est particulièrement utile au début d'une partie, car vous n'aurez pas d'officiers. Votre entourage pourrait cependant attirer davantage l’attention.
+
+- Surveillez toujours vos munitions et votre poudre pour armes à feu !
+
+- Avec certaines grosses armes, vous pouvez accéder au "mode fusil de chasse" en appuyant sur [TAB] lorsque vous avez dégainé votre épée. Vous tirez avec [Q]
+
+- Assurez-vous de regarder dans l'inventaire après un combat. Peut-être que l'un des ennemis a largué une arme meilleure que la vôtre ! Vous pouvez également appuyer sur [F] pour équiper rapidement la meilleure arme dont vous disposez (fonctionne également pendant les combats).
+
+}
+
+B_4{Mer}
+About_Build_4_d{NAVIGATION et BATAILLE NAVAL}
+About_Build_4
+{
+
+- Les officiers embauchés apportent également leurs compétences s'ils ne font pas partie de votre groupe d'officiers « actifs ». Notez qu’ils apportent uniquement les compétences qui correspondent à leur type. Dans l'interface Passagers, vous pouvez réaffecter les agents et voir leurs compétences efficaces. L'effet total du joueur + des officiers est affiché sous la forme des propres compétences du joueur dans l'interface Passagers.
+
+- Vérifiez toujours si votre navire a besoin de réparations ! Vous pouvez également améliorer votre navire au chantier naval pour le rendre plus fort, plus agile ou plus rapide.
+
+- Un navire a besoin d'un équipage suffisant pour naviguer et combattre correctement !
+
+- Embauchez un artilleur le plus tôt possible pour être plus performant dans les batailles navales. Il (ou elle ?) vous équipera également de nouvelles munitions à chaque fois que vous entrerez sur le pont de votre navire ; sinon, vous devez vous réapprovisionner au stockage de poudre dans la soute.
+
+- Embaucher un médecin doté de bonnes compétences en défense et avoir des médicaments à bord réduira les pertes après la bataille. L'équipage blessé est affiché comme [équipage sain] / [équipage blessé] dans F2> Navire.
+
+- N'oubliez pas que votre équipage a besoin de nourriture et de rhum pour survivre. Vous pouvez réduire les rations alimentaires si les choses deviennent critiques ; ne vous attendez pas à ce que l'équipage en soit content. Évidemment, vous aurez également besoin de boulets de canon et de poudre pour charger vos canons.
+
+- Des rations de rhum doubles augmenteront le moral de votre équipage, mais ils pourraient également se lancer dans une bagarre ivre de temps en temps.
+
+- La façon dont votre navire et votre navire ennemi sont positionnés sur la carte du monde est la même qu'en haute mer. Alors placez votre vaisseau dans une bonne position sur la carte du monde avant de commencer le combat ! Une bonne position de départ peut être un énorme avantage.
+
+- Vous pouvez modifier l'apparence de vos voiles dans F2>Navire>Voiles.
+
+- Si les chances d'une bataille navale sont totalement contre vous, chargez les chaînes et essayez de briser les mâts ennemis. Si vous réussissez, votre évasion n’en sera que plus facile.
+
+- L'embarquement sera bien plus facile avec un équipage au bon moral. De plus, il est très efficace de charger des raisins et de tirer quelques salves avant d'embarquer.
+
+- L'équipage d'embarquement utilise des armures et des potions que vous stockez dans le casier d'armes. Si vous ne mettez aucune arme dans le casier à armes, ils utiliseront des coutelas.
+
+- Plus tard dans le jeu, votre équipage sera généré avec de meilleures compétences et capacités et pourra alors utiliser des armes nécessitant la capacité Gunman. Mais pas au début.
+
+- Lorsque vous essayez d'embarquer, surveillez votre vitesse ! Il peut être mortel de passer à côté d'un navire. Et assurez-vous de ne pas vous faire heurter par l'arrière. Être « ratissé » comme ça a vraiment du punch !
+
+- Votre équipage peut utiliser les armes, fusils, armures et médicaments contenus dans votre casier à armes lors de l'embarquement. Cela peut faire la différence entre la victoire et la défaite !
+
+- En mode Réaliste et Iron Man, vous avez besoin d'un chronomètre et d'un sextant pour voir votre navire sur la carte de l'archipel (touche par défaut [M]). De plus, dans tous les modes, ils augmentent vos compétences en navigation.
+
+- Afin d'exécuter un exercice d'incendie lorsque vous trouvez votre navire en feu, vous avez besoin de l'avantage "Défense de base du navire". La clé par défaut pour cela est [C].
+
+- Vous pouvez faire flotter les drapeaux d'autres nations via F2>Relations. S'il s'agit d'un faux drapeau, vous pourriez être reconnu. Les chances que cela se produise augmentent si vous êtes célèbre et à mesure que vous vous rapprochez des navires amis appartenant à une nation ennemie. Mais battant votre pavillon personnel, les relations maritimes seront tout simplement les mêmes que vos relations réelles.
+
+- Les moteurs des bateaux à vapeur ont besoin de planches pour fonctionner.
+
+}
+
+B_5{Supplémentaire}
+About_Build_5_d{NOTES COMPLÉMENTAIRES}
+About_Build_5
+{
+
+- N'oubliez pas de sauvegarder souvent (Quicksave : [F5]). Vous ne saurez jamais ce qui va se passer ensuite.
+
+- Vous pouvez personnaliser votre jeu dans les paramètres de jeu supplémentaires.
+
+- Vous pouvez également accéder à InternalSettings.h dans [Game-Folder]\PROGRAM, que vous pouvez ouvrir avec NotePad.
+AVERTISSEMENT! Vous pouvez tout gâcher là-bas ! Si vous modifiez ce fichier, veuillez suivre les instructions à la fin de chaque ligne ! S'il n'y a pas de description et que vous ne savez pas ce que vous faites, mieux vaut laisser tomber.
+
+- Au bas du fichier mentionné, vous pouvez activer/désactiver le sidestep ([A] et [D]). Nous n'avons pas pu faire fonctionner le contrôle des collisions, vous pouvez donc vous déplacer à travers le monde. Paramètre par défaut : désactivé.
+
+- Vous pouvez modifier l'apparence de vos voiles dans F2>Navire>Voiles.
+
+- Pourquoi y a-t-il deux chiffres pour les compétences sur la feuille de personnage ?
+La première est la compétence « native » du personnage ; la seconde est la compétence après prise en compte des bonus et pénalités des objets ET/OU de la classe du navire.
+
+- Si vous êtes confus sur les noms et positions des îles, consultez la carte de l'archipel dans F2>Inventaire>Cartes. Vous pouvez également acheter des cartes des îles auprès des commerçants d'objets, qui vous donneront les positions et les noms des villes et des côtes.
+
+- Ma réputation est horrible. Comment puis-je changer ce que les gens pensent de moi ?
+Premièrement, vous ne saviez probablement pas ce qui causait cela. Votre réputation se détériore lorsque :
+> Vous n'avez pas remboursé « à temps » un prêt auprès de l'usurier.
+> Vous n'avez pas livré la marchandise "à temps".
+> Vous avez frappé ou tué des civils ou des commerçants.
+> Votre équipe de débarquement et/ou vos officiers ont blessé ou tué un civil. Notez que cela peut se produire même à distance si vos agents utilisent des armes à feu.
+> Vous avez tiré sur un navire ami ou neutre.
+> En gros, vous avez fait le mal dans une certaine situation.
+Pour résoudre ce problème, faites la chose évidente : de bonnes actions. parler aux gens et les aider, sauver des naufragés, terminer des quêtes qu'il vous reste à faire et qui vous donnent un bonus de réputation, etc.
+}
+
+B_6{Secrets}
+About_Build_6_d{CONTENU SECRET}
+About_Build_6
+{
+
+- Le capitaine Hendrick Vanderdecken vend des navires très spéciaux et maudits. Il vit sur une île introuvable, sauf par ceux qui savent déjà où elle se trouve. Vous pouvez y arriver en obtenant un objet célèbre d'un personnage bien connu dans un lieu bien connu des films Pirates des Caraïbes.
+
+- Un tireur coriace a décidé de se cacher du monde dans une maison quelque part dans la jungle. Mais la rumeur veut qu'il possède une sorte d'arme "magique".
+
+- Il existe une cachette secrète que vous pouvez utiliser pour vous allonger dans une grotte sur une île inhabitée.
+
+- L'apothicairerie de Bridgetown propose des options intéressantes, comme augmenter votre santé maximale. Rendez-lui visite pour savoir ce qui est requis.
+
+- Il y a d'étranges pièces de monnaie provenant d'un film bien connu se déroulant dans les Caraïbes. On dit que quiconque en trouvera et en portera une subira une terrible malédiction (et même l'équipage aussi, si de telles pièces se retrouvent dans le casier à armes).
+
+- L'Opium Den en Jamaïque propose des tatouages améliorant les compétences.
+
+- Durant les Révolutions et les époques napoléoniennes, vous pouvez laisser des mines dans la mer derrière vous pour détruire vos ennemis.
+}
+
+B_7{Problèmes}
+About_Build_7_d{PROBLEMES CONNUS et SOLUTIONS DE CONTOURNEMENT}
+About_Build_7
+{
+
+- Économisez souvent. (Sauvegarde rapide [F5]) Le jeu est généralement très stable, mais rappelez-vous qu'il s'agit d'un MOD réalisé par des particuliers pendant leur temps libre et gratuitement !
+
+- JE NE PEUX PAS CONTINUER VERS LE PROCHAIN PONT D'EMBARQUEMENT
+Appuyez sur [F12] pour forcer le jeu à activer le rechargement. Il devrait désormais être possible de continuer.
+
+- JE NE PEUX PLUS BOUGER DU TOUT
+Vous avez probablement été défini sur Actor Type via le code. Appuyez sur [F12] pour revenir au type de joueur.
+
+}
+
+B_8{Cheats}
+About_Build_8_d{CHEATMODE}
+About_Build_8
+{
+
+Pour utiliser le mode de triche, définissez ENABLE_CHEATMODE sur 1 en bas de PROGRAM\InternalSettings.h . Cela active les commandes clés suivantes :
+
+Pavé numérique 0 = Caractère : Mode Dieu
+Pavé numérique 1 = Faire défiler les caractères vers la GAUCHE
+Pavé numérique 2 = Sélectionner le personnage principal
+Pavé numérique 3 = Faire défiler les caractères vers la DROITE
+Pavé numérique 4 = Personnage : Monter un niveau
+Pavé numérique 5 = Personnage : Faux niveau supérieur
+Pavé numérique 6 = Joueur : + 100 000 Or et + 10 000 Richesse
+Pavé numérique 7 = Personnage : Parcourez les réputations (augmenter/diminuer la réputation)
+Pavé numérique 8 = Désactiver les tempêtes sur la carte du monde et les navires qui vous poursuivent
+Pavé numérique 9 = Déclencher l'attaque ennemie (mode de triche non requis)
+TAB = Shotgun Mode : Si vous possédez un fusil de chasse, un mousquet ou un pistolet de Jack Sparrow équipé en mode Combat.
+
+Cela active également ces « Story Helpers » qui vous permettent de passer à différentes parties des scénarios :
+- Woodes Rogers : Blackbeard's Head dans la scène d'ouverture de la cabine
+- Assassin : Marin qui s'approche de vous sur le quai
+- Bartolomeu : Pierre Delacroix qui s'approche quand on entre en ville
+- Jack Sparrow : Random Drunk assis dans la taverne de Tortuga
+- Hornblower : C.S. Forester qui se tient près d'une maison au début de l'histoire
+}
+
+B_9{Support}
+About_Build_9_d{SUPPORT AND TROUBLESHOOTING}
+About_Build_9
+{
+
+Utilisez les fichiers compile.log, system.log et éventuellement error.log de votre dossier principal de jeu pour fournir plus de détails lorsque vous demandez de l'aide. Mentionnez également votre carte graphique (GFX), le dossier d'installation et la version du modpack.
+
+Pour connaître votre carte GFX, appuyez sur le bouton Windows+R, puis tapez « dxdiag » suivi de « OK ». Cela exécutera l'outil de diagnostic DirectX qui fournit de nombreux détails pertinents.
+
+}
+
+B_10{Information additionnelle}
+About_Build_10_1
+{
+PiratesAhoy! Site and Forum:
+}
+
+About_Build_10_2
+{
+Mod DataBase Profile:
+}
+
+About_Build_10_3
+{
+Walkthroughs:
+}

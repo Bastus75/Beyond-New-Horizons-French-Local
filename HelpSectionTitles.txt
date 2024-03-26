@@ -1,0 +1,44 @@
+sea_minimap
+{
+  Mini-carte de navigation.
+
+}
+ship_commands
+{
+  Menu d'ordres des navires du joueur et de ses compagnons.
+
+}
+fast_commands
+{
+  Icone d'ordre rapide actuel.
+
+}
+sea_aim
+{
+  Ce cercle de visée indique où tireront les canons.
+
+}
+alarm_indicator
+{
+  Indicateur d'alerte.
+
+}
+land_commands
+{
+  Ceci affiche la situation du groupe du joueur et les ordres pouvant être donnés à ses officiers.
+
+}
+WorldMap_Date_Clock
+{
+  L'heure et la date du jeu peuvent être affichés sur la carte du monde.
+
+}
+WorldMap_Compas
+{
+  Compas sur la carte du monde.
+
+}
+Dialog_window
+{
+  Fenêtre de dialogue.
+}

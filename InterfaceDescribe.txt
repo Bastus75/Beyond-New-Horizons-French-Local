@@ -1,0 +1,46 @@
+ALeadership_Header{Commandement}
+ALeadership_Descr{Lorsque tout le monde voit qu'avec vous ils ne rencontreront aucun conflit, ils commencent à croire en vous et vous êtes en mesure d'atteindre vos objectifs.}
+ALeadership_Img{Icône de compétences en Commandement}
+AFencing_Header{Escrime}
+AFencing_Descr{L'habileté escrime est important pour tout capitaine, comme votre survie dépend souvent de la façon dont vous maniez une lame.}
+AFencing_Img{Icône de compétences en escrime}
+ASailing_Header{Navigation}
+ASailing_Descr{La capacité à amener un vaisseau à bon port à travers les orages et à travers le brouillard, celle à utiliser les outils de navigation et celle à commander les escadrilles. Aux mains d'un grand capitaine, même le plus grand et le plus terrifiant des vaisseaux volera comme un oiseau. Elle influe sur la vitesse de votre bateau et sa maniabilité.}
+ASailing_Img{Icône de compétences en Navigation}
+ACannons_Header{Canons}
+ACannons_Descr{Vite à présent. Préparez et positionnez vos armes. Et avant même que votre mal de tête ne cesse, nettoyez, rechargez et visez. N'oubliez pas de les refroidir à l'eau pour éviter une surchauffe... La distraction est mortelle au milieu des flammes et du tonnerre de la bataille. Chargez, visez et tirez !}
+ACannons_Img{icône de la compétences cannons}
+AAccuracy_Header{Précision}
+AAccuracy_Descr{L'une des qualités essentielles d'un vagabond des mers. Un véritable capitaine ne gâchera pas toute sa poudre et toutes ses munitions sur les poissons du voisinage. Chaque bordée doit atteindre directement sa cible. Et lorsque l'air marin dégage le brouillard de guerre, l'horizon doit être dépourvu de débris.}
+AAccuracy_Img{accuracy skill icon}								  
+AGrappling_Header{Abordage}
+AGrappling_Descr{Positionner le vaisseau correctement le long d'un pont ennemi, placer correctement la passerelle du premier coup, attaquer l'ennemi tremblant, progresser tel un ouragan sur tout le vaisseau et vous en emparer. Tout cela nécessite du savoir-faire et de l'expérience. Mais les richesses ainsi acquises en valent la peine.}
+AGrappling_Img{grappling skill icon}
+ADefence_Header{Defense}
+ADefence_Descr{Les jours s'écoulant, l'équipage s'attache au vaisseau et y grandit jusqu'à ce que chaque marin endurci vaille dix marins d'eau douce à la taverne. Ainsi, un bon capitaine prend soin de protéger ses hommes d'une mort stupide au combat.}
+ADefence_Img{deffence skill icon}
+ARepair_Header{Réparation}
+ARepair_Descr{Lorsque l'ennemi vous tire dessus à boulets brûlants, qu'il fracasse votre pont et réduit vos gréements en charpie ; lorsque l'ouragan fait craquer la coque et que le vent déchire les voiles ; c'est là que la réparation est importante.}
+ARepair_Img{repair skill icon}
+ACommerce_Header{Commerce}
+ACommerce_Descr{La compétence à revendre pour une fortune ce que vous avez acheté la veille pour une bouchée de pain. Vous devez connaître les routes commerciales fructueuses, comprendre et suivre le marché et entretenir de bonnes relations avec les propriétaires de magasins. Vous devriez alors alourdir vos poches de manière plaisante et facilement payer votre équipage et acheter ce dont vous avez besoin.}
+ACommerce_Img{commerce skill icon}
+ASneak_Header{Chance}
+ASneak_Descr{La chance, précognition ou le sentiment de danger - ou comme vous voudrez appeler, plus vous améliorez cette compétence, plus vous l'obtenez.}
+ASneak_Img{sneak skill icon}
+AFacePict_Descr{C'est le personnage #sname#}
+change_outfit_Header{Changer de costume}
+change_outfit_Descr{Ce bouton permet de changer de look de vos officiers.}
+Ranks_Header{Status info}
+Ranks_Descr{Cette colonne décrit l'état actuel et le rang de #sPChar# pour une nation donnée. Le texte vert clair signifie qu'il attend une promotion.}
+Relations_Header{Relations des Nations}
+Relations_Descr{Ce tableau montre les relations internationales connues entre les nations.}
+Attitude_Header{Attitude des Nations}
+Attitude_Descr{Cette colonne indique l'attitude à l'égard des nations #sPChar#.}
+Nation_Descr{Cette #sColumn_Row# montre la relations de #sNationOf# avec les autres nations.}
+RelFlag_Header{Relation basée sur le pavillon}
+RelFlag_Descr{Cette colonne indique l'attitude des nations de #sPChar# avec le pavillon actuel.}
+Checkbox_nation_Header{Hissez drapeau}
+Checkbox_nation_Descr{Cliquez pour hisser ce pavillon #sFlagOf#.}
+Change_Flag_Header{Choisissez le pavillon}
+Change_Flag_Descr{Cliquez sur ce bouton pour choisir un autre pavillon #sFlagOf#.}
