@@ -1,0 +1,44 @@
+ECONOMY_title {#stown# est maintenant #seconomy#}
+ECONOMY_entry {#stown# est désormais une #seconomy# en raison des événements récents qui se sont produits. Cela signifie que cette ville aura désormais besoin d'autres produits, il est donc préférable de revenir au magasin pour vérifier.}
+
+MALARIA_title {Le paludisme frappe #ville#}
+MALARIA_entry {Un nombre croissant de personnes dans la #ville# seraient mortes du paludisme. Les pertes civiles ont été assez élevées, mais les soldats de la garnison locale ont souffert encore plus.}
+
+PIRATES_title {Les pirates pillent #stown}
+PIRATES_entry {Une attaque de pirates sur #stown# a été signalée. Certains pirates semblent s'être infiltrés dans la ville avant que leurs navires n'attaquent le port au milieu de la nuit. Les habitants de la ville prirent la garnison par surprise et gardèrent les portes de la ville ouvertes à leurs camarades. L'attaque dans son ensemble n'a pas duré plus de deux heures. Les pirates s'enfuirent avec une grande quantité d'or, avant que le commandant du fort ne puisse rassembler ses troupes pour se défendre. Plusieurs personnes sont mortes dans cette attaque brutale, alors qu'elles tentaient de défendre elles-mêmes leurs biens.}
+
+GOLDFOUND_title {De l'or trouvé proximité de #stown#}
+GOLDFOUND_entry {Les mineurs de #stown# ont découvert une riche veine d'or. Une nouvelle mine d'or a été ouverte et le gouverneur a envoyé des troupes supplémentaires afin de mieux protéger la ville contre d'éventuelles attaques de pirates. Les nouvelles richesses attirent toutes sortes de gens, donc #stown# devrait se développer.}
+
+SILVERFOUND_title {Argent trouvé à proximité de #stown#}
+SILVERFOUND_entry {Les mineurs de #stown# ont découvert un riche filon d'argent. Une nouvelle mine d'argent a été ouverte et le gouverneur a envoyé des troupes supplémentaires afin de mieux protéger la ville contre d'éventuelles attaques de pirates. Les nouvelles richesses attirent toutes sortes de gens, donc #stown# devrait se développer.}
+
+INDIANS_title {Les Indiens attaquent #stown#}
+INDIANS_entry {Une attaque majeure d'indiens sur #stown# a été rapportée par les voyageurs. Les indiens semblent avoir pillé et massacré la population civile ainsi que la garnison locale. Finalement les canons de la garnison les chassa, laissant la ville complètement désolée.}
+
+SLAVEREVOLT_title {Révolte des esclaves de #stown#}
+SLAVEREVOLT_entry {Le gouverneur de #stown# a répandu la nouvelle selon laquelle une révolte d'esclaves avait été réprimée par la garnison locale. Tous les maraudeurs survivants ont été pendus en guise d'avertissement. Bien que la rébellion ait été réprimée, la perte d'un grand nombre d'esclaves devrait avoir un impact négatif sur l'économie de la #stown#.}
+
+FIRE_title {Grave incendie dans #stown#}
+FIRE_entry {Un grave incendie a ravagé certaines parties de #stown#. L'incendie s'est déclaré près du port, où un entrepôt a soudainement pris feu. Selon certaines rumeurs, il était rempli de pétrole, de poudre à canon, voire des deux. L'incendie s'est rapidement propagé et n'a pu être éteint que deux jours plus tard. De nombreuses personnes seraient mortes en tentant de sauver leurs biens des flammes.}
+
+HURRICANE_title {L'ouragan frappe #stown#}
+HURRICANE_entry {#stown# a été frappée par un grave ouragan. Le vent et l'eau ont détruit de nombreux bâtiments de la ville, en particulier les quartiers les plus pauvres qui ont été durement touchés. Plusieurs navires dans le port ont coulé à cause de l'ouragan. Les maladies devraient se propager dans toute la ville, comme d'habitude après de telles catastrophes.}
+
+SETTLERS_title {Nouveaux colons à #stown#}
+SETTLERS_entry {Un convoi de navires transportant de nouveaux colons d'Europe est arrivé à #stown#. Les nouveaux colons sont indispensables pour renforcer l’économie de la ville. On rapporte que le convoi apportait également dans les colonies des produits de luxe et de nouvelles inventions d'Europe, ainsi qu'un petit bataillon de soldats.}
+
+EXPEDITION_title {L'expédition revient à #stown#}
+EXPEDITION_entry {Une expédition dans la jungle est de retour à #stown#. L'expédition fut un grand succès puisque les explorateurs trouvèrent non loin de là un filon d'or qui fut exploité par une tribu indigène. Les explorateurs s'emparèrent du village et réduisirent en esclavage les Indiens survivants afin d'établir un nouveau camp minier. L'expédition revint finalement avec une grande quantité de marchandises et d'or, plusieurs plantes jusqu'alors inconnues et un certain nombre d'esclaves.}
+
+GOODECO_title {}
+GOODECO_entry {}
+
+Fetch_Shipyard_title {#stown# étend sa flotte de guerre}
+Fetch_Shipyard_entry {Le gouverneur de #stown# a ordonné au chantier naval de créer de nouveaux navires pour la flotte de guerre. Cela nécessitera beaucoup de ressources, il est donc probable que certaines d'entre elles soient épuisées.}
+
+Fetch_Tailor_title {#stown# étend l'armée}
+Fetch_Tailor_entry {Le commandant du fort de #stown# recrute de nouvelles personnes pour rejoindre son armée. Cela fournira au tailleur beaucoup de nouveau travail et pourrait épuiser certaines des ressources de l'île.}
+
+Fetch_Smith_title {#stown# veut de nouvelles armes}
+Fetch_Smith_entry {Pour mieux combattre, le gouverneur de #stown# a décidé que toutes les armes devaient être vérifiées et améliorées. Cela obligera probablement le forgeron à utiliser beaucoup de ressources et il pourrait avoir besoin d'aide.}

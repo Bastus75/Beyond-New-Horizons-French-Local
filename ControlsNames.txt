@@ -1,0 +1,577 @@
+HelpChooser {Sélection d'aide}
+MainInterface {Interface principale}
+DialogControls {Dialogue}
+WorldMapControls {Carte du monde}
+BattleInterfaceControls {Menu d'interface}
+Sailing1Pers {Navigation vue subjective}
+Sailing3Pers {Navigation vue extérieure}
+FightModeControls {Mode combat}
+PrimaryLand {Terre princ.}
+
+
+
+ChrCamTurnV
+{
+Dépl. vertical caméra perso.
+
+}
+ChrCamTurnH
+{
+Dépl. horizontal caméra perso.
+
+}
+ChrCamCameraSwitch
+{
+Bascule caméra vue subj./ext.
+
+}
+ChrCamNormalize
+{
+Définir vue caméra sur position par déf.
+
+}
+
+
+
+
+ShipCamera_Turn_V
+{
+Dépl. vertical caméra navire
+
+}
+ShipCamera_Turn_H
+{
+Dépl. horizontal caméra navire
+
+}
+ShipCamera_Forward
+{
+Zoom avant sur navire
+
+}
+ShipCamera_Backward
+{
+Zoom arrière depuis navire
+
+}
+
+
+
+
+
+
+
+DeckCamera_Turn_V
+{
+Regard haut/bas sur pont navire
+
+}
+DeckCamera_Turn_H
+{
+Rotation G/D sur pont navire
+
+}
+DeckCamera_Forward
+{
+Dépl. avant sur pont navire
+
+}
+DeckCamera_Backward
+{
+Dépl. arrière sur pont navire
+
+}
+DeckCamera_Left
+{
+Dépl.à  gauche sur pont navire
+
+}
+DeckCamera_Right
+{
+Dépl. à droite sur pont navire
+
+}
+
+
+
+
+
+
+
+ChrTurnH
+{
+Rotation personnage
+
+}
+ChrTurnV
+{
+Marche personnage
+
+}
+ChrTurnHL
+{
+Rotation à gauche personnage
+
+}
+ChrTurnHR
+{
+Rotation à droite personnage
+
+}
+ChrAction
+{
+Exécuter action
+
+}
+ChrForward
+{
+Dépl. vers l'avant
+
+}
+ChrForward1
+{
+Dépl. vers l'avant
+
+}
+ChrBackward
+{
+Dépl. vers l'arrière
+
+}
+ChrBackward1
+{
+Dépl. vers l'arrière
+
+}
+ChrRun
+{
+Courir
+
+}
+ChrRunStick
+{
+Courir
+
+}
+ChrBlock
+{
+Parer
+
+}
+ChrAttack
+{
+Attaquer
+
+}
+ChrRecoil
+{
+Esquiver 
+
+}
+ChrFightMode
+{
+Dégainer/rengainer épée
+
+}
+ChrFire
+{
+Tirer au pistolet
+
+}
+
+
+
+
+
+
+Ship_TurnLeft
+{
+Rotation à gauche navire
+
+}
+Ship_TurnRight
+{
+Rotation à droite navire
+
+}
+Ship_SailUp
+{
+Donner de la voile
+
+}
+Ship_SailDown
+{
+Abattre les voiles
+
+}
+Ship_Fire
+{
+Tirer au canon
+
+}
+Aimed_Ship_Fire
+{
+Faire feu selon l'angle visé manuellement
+
+}
+Sea_CameraSwitch
+{
+Bascule caméra sur pont/aérienne
+
+}
+TelescopeIn
+{
+Activer/désactiver longue-vue
+
+}
+
+
+
+
+
+WMapTurnH
+{
+Rotation caméra autour navire sur carte du monde
+
+}
+WMapTurnV
+{
+Rotation caméra au-dessus navire sur carte du monde
+
+}
+WMapCameraRotate
+{
+Activer dépl. et rotation caméra
+
+}
+WMapForward
+{
+Zoom avant sur carte du monde
+
+}
+WMapBackward
+{
+Zoom arrière sur carte du monde
+
+}
+WMapCameraSwitch
+{
+Modifier mode caméra
+
+}
+WMapShipSailUp
+{
+Voguer vers l'avant
+
+}
+WMapShipSailDown
+{
+Voguer vers l'arrière
+
+}
+WMapShipTurnLeft
+{
+Virer à gauche
+
+}
+WMapShipTurnRight
+{
+Virer à droite
+
+}
+WMapCancel
+{
+Quitter la carte du monde
+
+}
+
+
+
+
+
+
+Interface
+{
+Ouvrir l'écran d'état du joueur
+
+}
+MainMenu
+{
+Ouvrir menu principal
+
+}
+Help
+{
+Ouvrir sélection de sujet d'aide
+
+}
+
+
+
+
+
+BICommandsActivate
+{
+Ouvrir le menu d'icones d'ordres
+
+}
+LICommandsActivate
+{
+Ouvrir le menu d'icones d'ordres
+
+}
+BICommandsConfirm
+{
+Activer l'icone d'ordre sélectionnée
+
+}
+BICommandsCancel
+{
+Annuler menu d'icones d'ordres actuel
+
+}
+BICommandsLeft
+{
+Défil. à gauche dans menu d'icones d'ordres
+
+}
+BICommandsRight
+{
+Défil. à droite dans menu d'icones d'ordres
+
+}
+MiniMapZoomIn
+{
+Zoom avant sur mini-carte
+
+}
+MiniMapZoomOut
+{
+Zoom arrière sur mini-carte
+
+}
+BIFastCommand
+{
+Exécuter un ordre rapide
+
+}
+
+
+
+
+
+HelpChooser_Cancel
+{
+Quitter sélection de sujet d'aide
+
+}
+HelpChooser_Action
+{
+Afficher sujet d'aide sur élément d'écran sélectionné
+
+}
+HelpChooser_Next
+{
+Afficher sujet d'aide suivant
+
+}
+HelpChooser_Prev
+{
+Afficher sujet d'aide précédent
+
+}
+HelpChooser_Left
+{
+Sélectionner sujet de gauche
+
+}
+HelpChooser_Right
+{
+Sélectionner sujet de droite
+
+}
+HelpChooser_Up
+{
+Sélectionner sujet supérieur
+
+}
+HelpChooser_Down
+{
+Sélectionner sujet inférieur
+
+}
+
+
+
+
+
+
+
+DlgAction
+{
+Choisir réponse de dialogue
+
+}
+DlgUp
+{
+Choisir réponse précédente
+
+}
+DlgDown
+{
+Choisir réponse suivante
+
+}
+DlgScrollUp
+{
+Faire défiler le texte du dialogue vers le bas
+
+}
+DlgScrollDown
+{
+Faire défiler le texte du dialogue vers le haut
+
+}
+
+// NK configurable modded controls
+BI_ChargeCannonballs
+{
+Recharger avec des boulets normaux
+
+}
+
+BI_ChargeGrapes
+{
+Recharger avec de la mitraille
+
+}
+
+BI_ChargeKnippels
+{
+Recharger avec des boulets ramés
+
+}
+
+BI_ChargeBombs
+{
+Recharger avec des bombes
+
+}
+
+NK_NameChange
+{
+Change le nom du joueur à celui de BuildSettings.h
+
+}
+
+NK_AlwaysRunToggle
+{
+Mode toujours-courir.
+
+}
+
+NK_LogsToggle
+{
+Mode extra infos
+
+}
+
+NK_Re-init
+{
+Réinitialise le jeu
+
+}
+
+SCHEFFNOW_RUSH
+{
+mode fureur
+
+}
+
+BOAL_Control
+{
+1x-3x time compression
+
+}
+
+BOAL_Control2
+{
+Montre des infos sur votre personage, et effectue des corrections de bugs. Si le jeu crash, rechargez et utilisez cette touche.
+
+}
+
+BOAL_Control0
+{
+10x-30x time compression
+
+}
+
+BOAL_UsePotion
+{
+Boire une potion
+
+}
+TIH_FireDrill
+{
+Essayer d'éteindre un incendie à bord
+
+}
+
+DCH_Quicksave
+{
+Faire une sauvegarde rapide
+
+}
+DCH_Quickload
+{
+Charger la sauvegarde rapide
+
+}
+
+Sidestep_left_on
+{
+Faire un pas à gauche
+
+}
+
+Sidestep_right_on
+{
+Faire un pas à droite
+
+}
+
+Equip
+{
+Touche pour s'équiper rapidement
+
+}
+
+NK_Pause
+{
+Mettre le jeu en pause 
+
+}
+
+NK_DialogStart
+{
+Piller les cadavres
+
+}
+
+straif_weapon_left
+{
+Sauter à gauche
+
+}
+
+straif_weapon_right
+{
+Sauter à droite
+
+}
+
+ScreenCleaning
+{
+Removes icons and log messages
+
+}

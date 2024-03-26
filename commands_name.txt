@@ -1,0 +1,131 @@
+
+sea_Cancel {Annuler}
+sea_Moor {Jeter l'ancre}
+sea_Port {Port}
+sea_Fort {Fort}
+sea_Shore {Rivage}
+sea_SailTo {Voguer vers}
+sea_Board {Aborder}
+sea_LandTroops {Débarquer}
+sea_Map {Carte}
+sea_Attack {Attaquer}
+sea_Defend {Défendre}
+sea_SailAway {S'enfuir}
+sea_HeaveToDrift {Mettre en panne}
+sea_Transfer {Transférer}
+sea_Charge {Recharger}
+sea_Speed {Voiles}
+sea_CCommand {Donner un ordre}
+sea_Ability {Capacité spéciale}
+sea_ImmediateDeath {Sauter!}
+sea_HoistFlag {Isser un pavillon}
+sea_EnterCabin {Cabine du capitaine}
+sea_EnterDeck {Pont}
+sea_EnterShip {Pond du #sshipname#}
+sea_EnterSeadogs {Quartiers de l'équipage}
+sea_EnterShipDeck {Pont du navire}
+sea_EnterMainCannonsDeck {Pont de Canons Principal}
+sea_EnterUpperCannonsDeck {Pont de Canons Supérieur}
+sea_EnterLowerCannonsDeck {Pont de Canons Inférieur}
+sea_EnterHold {Cale de cargaison}
+sea_EnterHold1 {1st Cale de cargaison}
+sea_EnterHold2 {2nd Cale de cargaison}
+sea_LowerSails {Abattre la voilure}
+sea_BattleSails {Voiles de combat}
+sea_FullSails {Larguer la voilure}
+sea_FCoHS_Hail {Hail Ship}
+sea_FCoHS_Contact {Visite du navire}
+sea_KrakenAttack {Invocation Kraken}
+sea_SubmergeDutchman {Immergez / Emerge}
+sea_PearlSweeps {Run Out Sweeps}
+sea_QARSword {Épée de Triton}
+sea_TritonAttack {Rigging Attack}
+sea_NeptuneTrident {Le trident de Neptune}
+sea_Brander {Marqueur}
+sea_FastReload {Rechargement immédiat}
+sea_InstantBoarding {Abordage instantané}
+sea_LightRepair {Réparation légère}
+sea_InstantRepair {Réparation instantané}
+sea_Turn180 {Virement 180}
+sea_SandbankManeuver {Manœuvre de banc de sable}
+sea_Troopers {Soldats}
+sea_Speak {Parler}
+
+sea_Cannonballs {Boulets}
+sea_Grapes {Mitraille}
+sea_Knippels {Boulets ramés}
+sea_Bombs {Bombes}
+
+sea_EnglishFlag {Anglais}
+sea_SpainFlag {Espagnol}
+sea_PortugalFlag {Portugais}
+sea_FranceFlag {Français}
+sea_HollandFlag {Hollandais}
+sea_Flags {Pavillon}
+sea_Explosion {Exploser!}
+
+land_ItemsDead {Piller les cadavres}
+land_FastReload {Trajet rapide}
+land_ItemsUse {Utiliser un objet}
+land_DialogStart {Parler}
+land_ItemsChange {Échanger}
+land_TakeItem {Prendre}
+land_PlaceItem {Placer}
+land_OutDoor {Ouvrir}
+land_UseBox {Ouvrir}
+land_ActivateRush {Arrr!}
+land_ExitDeck {Mer}
+land_Look {Regarder}
+land_Back {Arriere}
+land_EnterDeck {Pont du navire}
+land_EnterShip {Pont du #sshipname#}
+land_EnterCabin {Cabine du capitaine}
+land_EnterSeadogs {Quartiers de l'équipage}
+land_EnterShipDeck {Pont}
+land_EnterMainCannonsDeck {Pont de Canons Principal}
+land_EnterUpperCannonsDeck {Pont de Canons Supérieur}
+land_EnterLowerCannonsDeck {Pont de Canons Inférieur}
+land_EnterHold {Cale de cargaison}
+land_EnterHold1 {1st Cale de cargaison}
+land_EnterHold2 {2nd Cale de cargaison}
+land_UseCorpse {Pillage de cadavre}
+land_UseBarrel {Rechercher dans le baril}
+land_UseStorage {Stockage de la poudre à canon}
+land_GoToTeachHead {Tête de Barbe Noire}
+land_Cancel {Annuler}
+go_store {Magasin}
+go_shipyard {Chantier Naval}
+go_tavern {Taverne}
+go_residence {Palais du gouverneur}
+go_port {Port}
+go_shore {rivage}
+go_loanshark {Bureau de l'usurier}
+go_brothel {Bordel}
+go_church {Église}
+go_prison {Prison}
+go_fort {Fort}
+go_tailorshop {Boutique du Taileur}
+go_blacksmith {Atelier du Forgeron}
+go_shipdeck {Pont du navire}
+go_cabin {Cabine du capitaine}
+go_seadogs {Quartiers de l'équipage}
+go_maincannonsdeck {Pont de Canons Principal}
+go_uppercannonsdeck {Pont de Canons Supérieur}
+go_lowercannonsdeck {Pont de Canons Inférieur}
+go_hold {Cale de cargaison}
+go_hold1 {1st Cale de cargaison}
+go_hold2 {2nd Cale de cargaison}
+go_apothecary {Apothicaire}
+go_gunsmith {Armurier}
+go_gunblacksmith {Gun- and Blacksmith}
+go_opium {Fumerie d'opium}
+go_library {Bibliothñue}
+go_maltese {Abbaye maltaise}
+go_indianstore {Magasin indien}
+go_tavern2 {Deuxiíe taverne}
+go_eitc {East India Trading Company}
+go_dwic {Dutch West India Company}
+go_cdc {Casa de Contratación}
+go_fwic {Compagnie française des Indes occidentales}
+go_academy {Académie navale}
+go_HQ {QG naval}
